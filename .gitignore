@@ -93,3 +93,6 @@ lint-results*.xml
 
 # Mac
 .DS_Store
+
+# Local tools
+.claude/
