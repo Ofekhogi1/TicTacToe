@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Tic Tac Toe</string>
     <string name="game_title">Tic Tac Toe</string>
-    <string name="player_x_turn">Player X\'s Turn</string>
-    <string name="player_o_turn">Player O\'s Turn</string>
+    <string name="player_x_score">Player X Score: %d</string>
+    <string name="player_o_score">Player O Score: %d</string>
+    <string name="player_x_turn">Player X Turn</string>
+    <string name="player_o_turn">Player O Turn</string>
+    <string name="play_again">Play Again</string>
+    <string name="game_draw">Game Draw!</string>
     <string name="player_x_wins">Player X Wins!</string>
     <string name="player_o_wins">Player O Wins!</string>
-    <string name="game_draw">It\'s a Draw!</string>
-    <string name="play_again">Play Again</string>
-    <string name="score_label">Score</string>
-    <string name="player_x_score">Player X: %1$d</string>
-    <string name="player_o_score">Player O: %1$d</string>
-    <string name="empty_cell"> </string>
 </resources>
